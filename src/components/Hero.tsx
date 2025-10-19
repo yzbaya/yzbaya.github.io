@@ -50,7 +50,7 @@ export function Hero() {
         >
           {[
             { icon: Mail, label: 'ons.yazidi@insat.ucar.tn', href: 'mailto:ons.yazidi@insat.ucar.tn' },
-            { icon: Phone, label: '+216 99 844 949', href: 'tel:+21699844949' },
+            { icon: Phone, label: '+216 99 844 949', href: 'tel:+21625672659' },
             { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/ons-yazidi-6b8507219/' },
             { icon: Github, label: 'GitHub', href: 'https://github.com/Ons-Yazidi' },
           ].map((contact, index) => (

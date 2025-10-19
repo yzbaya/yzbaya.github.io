@@ -57,7 +57,7 @@ export function Contact() {
 
             <div className="space-y-4">
               <motion.a
-                href="mailto:ons.yazidi@insat.ucar.tn"
+                href="mailto:bayayazidi123@gmail.com"
                 className="flex items-center gap-4 p-4 bg-card border border-border rounded-lg hover:border-primary transition-all duration-300 group"
                 whileHover={{ x: 10, boxShadow: '0 0 20px rgba(212, 175, 55, 0.2)' }}
               >
@@ -66,12 +66,12 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-muted-foreground">Email</p>
-                  <p className="text-foreground">ons.yazidi@insat.ucar.tn</p>
+                  <p className="text-foreground">bayayazidi123@gmail.com</p>
                 </div>
               </motion.a>
 
               <motion.a
-                href="tel:+21699844949"
+                href="tel:+21625672659"
                 className="flex items-center gap-4 p-4 bg-card border border-border rounded-lg hover:border-primary transition-all duration-300 group"
                 whileHover={{ x: 10, boxShadow: '0 0 20px rgba(212, 175, 55, 0.2)' }}
               >
@@ -100,7 +100,7 @@ export function Contact() {
 
             <div className="flex gap-4 pt-4">
               <motion.a
-                href="https://www.linkedin.com/in/ons-yazidi-6b8507219/"
+                href="https://www.linkedin.com/in/yazidi-baya/é"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-card border border-border rounded-lg hover:border-primary transition-all duration-300"
